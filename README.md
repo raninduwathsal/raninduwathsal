@@ -4,6 +4,13 @@ Full Stack Developer | AI & Data Science
 BSc IT (Data Science) @ SLIIT · CGPA 3.6  
 Intellicon Hackathon 1st Place Winner
 
+- 🌐 Portfolio: https://raninduwathsal.vercel.app
+- 🔗 LinkedIn: https://linkedin.com/in/ranindu-helambage-44036a354
+- 📧 wathsalranindu@gmail.com
+- 📱 0721888870
+- GitHub: https://github.com/raninduwathsal
+- Linktree: https://linktr.ee/ranindu
+
 ---
 
 ## About
@@ -39,33 +46,6 @@ I build full-stack applications and AI-powered tools that turn data into actiona
 - **SLIIT Projects & Clubs**
   - Mozilla Club & AIESEC in SLIIT: GitHub automation, marketplace bot, QA testing, UI/UX improvements
   - Developed full stack solutions with PostgreSQL, Redis, edge functions, Docker, and CI/CD
-
----
-
-## Pinned Projects
-
-- [AD-PRED](https://github.com/raninduwathsal/AD-PRED)
-- [Better WhatsApp Web Dashboard](https://github.com/raninduwathsal/Better-Whatsapp-Web-Dashboard)
-- [CKD Detection](https://github.com/IT24102279/CKD-Detection-PGNO-154)
-
----
-
-## Projects
-
-### AD-PRED
-- AI EduApp that adapts to each student
-- Predicts student understanding and enhances notes using LLMs
-- GitHub: https://github.com/raninduwathsal/AD-PRED
-
-### Better WhatsApp Web Dashboard
-- Enhanced WhatsApp client with business toolkits, notes, tags, multi-chat replies, keyboard shortcuts, and auto backup
-- Built with a grid dashboard UI, clean architecture, and performance optimization
-- GitHub: https://github.com/raninduwathsal/Better-Whatsapp-Web-Dashboard
-
-### CKD Detection
-- Chronic Kidney Disease prediction pipeline with cross-validation and model evaluation
-- Used Google Colab, Hugging Face, Kaggle, and structured ML experimentation
-- GitHub: https://github.com/IT24102279/CKD-Detection-PGNO-154
 
 ---
 
